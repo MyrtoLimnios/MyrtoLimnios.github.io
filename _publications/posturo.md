@@ -4,7 +4,7 @@ authors: "Ioannis Bargiotas, Argyris Kalogeratos, Myrto Limnios, Pierre–Paul V
 collection: publications
 permalink: /publication/posturo
 excerpt: ''
-post.pubtype: 'preprint'
+pubtype: 'preprint'
 date: 2019-07-15
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/1907.06614'
