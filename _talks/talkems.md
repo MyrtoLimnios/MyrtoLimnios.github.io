@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/sma
 venue: "European Meeting of Statisticians, Bernoulli Society "
-date: 2019-07
+date: 2019-07-22
 location: "Palermo, Italy"
 ---
 
