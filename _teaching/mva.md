@@ -1,5 +1,5 @@
 ---
-title: "Statics, Probability and Stochastic Processes"
+title: "Statistics, Probability and Stochastic Processes"
 collection: teaching
 type: "Teaching Assistant - Master's Degree"
 permalink: /teaching/mva
