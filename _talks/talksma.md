@@ -1,7 +1,8 @@
 ---
 title: "Empirical Maximization of R-statistics in the Two-Sample Problem and Nonparametric Homogeneity Tests in High Dimension"
 collection: talks
-talktype: 'talk'
+type: "Talk"
+talktype: "talk"
 permalink: /talks/sma
 venue: "StatMathAppli, Conference 'Mathematical Statistics and Applications' "
 link: https://statmathappli.mia.inrae.fr
