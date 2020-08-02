@@ -2,7 +2,7 @@
 title: "Empirical Maximization of R-statistics in the Two-Sample Problem and Nonparametric Homogeneity Tests in High Dimension"
 collection: talks
 type: "Talk"
-talktype: "talk"
+talktype: 'talk'
 permalink: /talks/sma
 venue: "European Meeting of Statisticians, Bernoulli Society "
 date: 2019-07-22
