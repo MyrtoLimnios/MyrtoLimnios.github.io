@@ -5,8 +5,8 @@ type: "Talk"
 talktype: 'poster'
 link: https://www.ds3-datascience-polytechnique.fr/wp-content/uploads/2019/06/DS3-237_2019.pdf
 permalink: /talks/ds3post
-venue: "Data Science Summer School"
-startdate: 2019
-location: "Ecole Polytechnique, Palaiseau, France"
+venue: 'Data Science Summer School'
+date: 2019-06-28
+location: 'Ecole Polytechnique, Palaiseau, France'
 ---
 
