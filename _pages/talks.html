@@ -17,7 +17,7 @@ author_profile: true
 
 
 <h2>Talks</h2>
-  {% for talk in site.talks reversed %} 
+  {% for post in site.talks reversed %} 
     {% if post.talktype == 'talk' %} 
       {% include archive-single.html %} 
     {% endif %}
@@ -25,7 +25,7 @@ author_profile: true
 
 
 <h2>Posters</h2>
-  {% for talk in site.talks reversed %} 
+  {% for post in site.talks reversed %} 
     {% if post.talktype == 'poster' %} 
       {% include archive-single.html %} 
     {% endif %}
