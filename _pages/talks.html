@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+<!--
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -14,3 +14,20 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+-->
+
+
+<h2>Talks</h2>
+  {% for talk in site.talks reversed %} 
+    {% if post.talktype == 'talk' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
+
+
+<h2>Posters</h2>
+  {% for talk in site.talks reversed %} 
+    {% if post.talktype == 'poster' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
