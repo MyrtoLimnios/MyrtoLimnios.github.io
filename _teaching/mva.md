@@ -4,7 +4,8 @@ collection: teaching
 type: "Teaching Assistant - Master's Degree"
 permalink: /teaching/mva
 venue: "University Paris-Saclay, Ecole Normale Supérieure, Master MVA"
-date: 2019-2021
+startdate: 2019
+enddate: 2021
 location: "Paris, France"
 ---
 
