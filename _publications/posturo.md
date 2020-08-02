@@ -3,9 +3,7 @@ title: "Revealing posturographic features associated with the risk of falling in
 authors: "Ioannis Bargiotas, Argyris Kalogeratos, Myrto Limnios, Pierre–Paul Vidal, Damien Ricard, Nicolas Vayatis"
 collection: publications
 permalink: /publication/posturo
-excerpt: ''
 pubtype: 'preprint'
 date: 2019-07-15
-venue: 'Preprint'
-paperurl: [arxiv]('https://arxiv.org/abs/1907.06614')
+link: https://arxiv.org/abs/1907.06614
 ---
