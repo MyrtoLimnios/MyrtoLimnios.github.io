@@ -7,5 +7,5 @@ excerpt: ''
 pubtype: 'preprint'
 date: 2019-07-15
 venue: 'Preprint'
-paperurl: 'https://arxiv.org/abs/1907.06614'
+paperurl: [arxiv]('https://arxiv.org/abs/1907.06614')
 ---
