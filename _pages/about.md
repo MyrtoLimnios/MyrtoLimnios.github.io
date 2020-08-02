@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at CMLA, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis] (http://nvayatis.perso.math.cnrs.fr). My main interests are Statistics, Statistical Learning and Empirical Processes. 
+I am a PhD student at CMLA, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr). My main interests are Statistics, Statistical Learning and Empirical Processes. 
