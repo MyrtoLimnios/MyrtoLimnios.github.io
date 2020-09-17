@@ -86,9 +86,9 @@ author:
   location         : "ENS Paris-Saclay, Paris, France"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.fr/citations?user=V7Nem6oAAAAJ&hl=fr&oi=ao"
   email            : "myrto.limnios(at)cmla.ens-paris-saclay.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Myrto_Limnios"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/myrto-limnios-601042a9/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
