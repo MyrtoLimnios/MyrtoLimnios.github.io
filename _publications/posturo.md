@@ -5,7 +5,8 @@ link: https://arxiv.org/abs/1907.06614
 permalink: /publication/posturo
 date: 2019-07-15
 pubtype: 'preprint'
-excerpt: ''
-author: 'I. Bargiotas, A. Kalogeratos, M. Limnios, P-P. Vidal, D. Ricard and N. Vayatis'
+excerpt: ' '
+author: 'I. Bargiotas, A. Kalogeratos, M. Limnios, P-P. Vidal, D. Ricard, N. Vayatis'
+
 ---
 
