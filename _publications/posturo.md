@@ -3,7 +3,7 @@ title: "Revealing posturographic features associated with the risk of falling in
 collection: publications
 link: https://arxiv.org/abs/1907.06614
 permalink: /publication/posturo
-date: 2019
+date: '2019'
 pubtype: 'preprint'
 excerpt: ' '
 author: 'I. Bargiotas'
