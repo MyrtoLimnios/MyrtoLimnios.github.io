@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /publications/
-authors: true
+author_profile: true
 
 ---
 
