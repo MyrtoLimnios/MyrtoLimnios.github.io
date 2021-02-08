@@ -1,5 +1,3 @@
-
-
 ---
 title: "A Langevin-Based Model with Moving Posturographic Target to Quantify Postural Control"
 link: https://ieeexplore.ieee.org/document/9347559
