@@ -25,14 +25,18 @@
           alt="">
       </div>
     {% endif %}
-    
+
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+        <a href="{{ post.link }}">{{ title }}</a> 
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-  
-
-    {% if post.date %}<p class="archive__item-excerpt" itemprop="description"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.venue }}, {{ post.date | date: '%B, %Y' }}, {{post.location}}</p>{% endif %}
+    
+      {% if post.collection == 'publications' and post.pubtype == 'preprint' and post.date %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+      {% elsif post.collection == 'publications' %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. <i>{{ post.venue }}</i>.</p>
+      {% endif %}
+    
   </article>
 </div>
