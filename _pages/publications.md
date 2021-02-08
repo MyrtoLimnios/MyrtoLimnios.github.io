@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /publications/
-author_profile: true
+authors: true
+
 ---
 
 <h2>Preprints</h2>
