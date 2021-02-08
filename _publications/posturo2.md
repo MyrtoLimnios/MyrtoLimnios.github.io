@@ -6,4 +6,5 @@ permalink: /publication/posturo2
 author: 'I. Bargiotas, A. Kalogeratos, M. Limnios, P-P. Vidal, D. Ricard, N. Vayatis'
 pubtype: 'conference'
 excerpt: ''
+date: 2020-09-01
 ---
