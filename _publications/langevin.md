@@ -5,8 +5,8 @@ collection: publications
 permalink: /publication/langevin
 author: 'A. Nicolai, M. Limnios, A. Trouve, J. Audiffren'
 pubtype: 'journal'
-date: 2021-02-04
 excerpt: ''
+date: 2021-02-04
 
 ---
 
