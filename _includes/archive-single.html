@@ -38,5 +38,9 @@
         <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. <i>{{ post.venue }}</i></p>
       {% endif %}
     
+    {% if post.collection == 'talks' %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. </p>
+    {% endif %}
+    
   </article>
 </div>
