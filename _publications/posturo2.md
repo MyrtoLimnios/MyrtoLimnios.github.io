@@ -7,6 +7,7 @@ author: 'I. Bargiotas, A. Kalogeratos, P-P. Vidal, D. Ricard, N. Vayatis, M. L.'
 pubtype: 'conference'
 excerpt: ''
 date: 2020-09-01
+venue: 'SETN 2020: 11th Hellenic Conference on Artificial Intelligence'
 
 
 ---
