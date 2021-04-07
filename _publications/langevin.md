@@ -7,6 +7,7 @@ author: 'A. Nicolai, A. Trouve, J. Audiffren, M. L.'
 pubtype: 'journal'
 excerpt: ''
 date: 2021-02-04
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 
 ---
 
