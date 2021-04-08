@@ -3,7 +3,7 @@ title: "A Langevin-Based Model with Moving Posturographic Target to Quantify Pos
 link: https://ieeexplore.ieee.org/document/9347559
 collection: publications
 permalink: /publication/langevin
-author: 'A. Nicolai, A. Trouve, J. Audiffren, M. L.'
+author: 'A. Nicolai, M. Limnios, A. Trouve, J. Audiffren'
 pubtype: 'journal'
 excerpt: ''
 date: 2021-02-04
