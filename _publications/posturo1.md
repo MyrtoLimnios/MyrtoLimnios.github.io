@@ -3,7 +3,7 @@ title: "Revealing posturographic features associated with the risk of falling in
 link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246790
 collection: publications
 permalink: /publication/posturo1
-author: 'I. Bargiotas, A. Kalogeratos, P-P. Vidal, D. Ricard, N. Vayatis, M. L.'
+author: 'I. Bargiotas, A. Kalogeratos, M. Limnios, P-P. Vidal, D. Ricard, N. Vayatis'
 pubtype: 'journal'
 excerpt: ''
 date: 2021-02-25
