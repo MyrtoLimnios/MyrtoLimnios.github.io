@@ -5,7 +5,7 @@ type: "Teaching Assistant - Master's Degree"
 permalink: /teaching/mdsprel
 venue: "University Paris-Saclay, Ecole Polytechnique, Master Data Science"
 startdate: 2020
-enddate: 2021
+enddate: 2022
 location: "Paris, France"
 ---
 
