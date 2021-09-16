@@ -5,12 +5,13 @@ author_profile: true
 
 ---
 
-<h2>Preprints</h2>
+<h2>Journals</h2>
   {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'preprint' %} 
+    {% if post.pubtype == 'journal' %} 
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
+
 
 
 <h2>Conferences</h2>
@@ -21,9 +22,9 @@ author_profile: true
   {% endfor %}
 
 
-<h2>Journals</h2>
+<h2>Preprints</h2>
   {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'journal' %} 
+    {% if post.pubtype == 'preprint' %} 
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
