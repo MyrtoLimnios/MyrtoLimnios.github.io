@@ -5,6 +5,6 @@ type: "Talk"
 talktype: 'talk'
 link: https://lidta.dcc.fc.up.pt
 permalink: /talks/lidta
-venue: '3rd International Workshop on Learning with Imbalanced Domains: Theory and Applications, co-located with ECML/PKDD 2021'
+venue: 'LIDTA21: 3rd International Workshop on Learning with Imbalanced Domains: Theory and Applications, co-located with ECML/PKDD 2021'
 date: 2021-09-17
 ---
