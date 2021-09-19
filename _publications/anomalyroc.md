@@ -14,4 +14,4 @@ venue: 'LIDTA21: 3rd International Workshop on Learning with Imbalanced Domains:
 
 
 
-[Link here](http://eboursier.github.io/files/LNC21.pdf) 
+[Link here](http://MyrtoLimnios.github.io/_publications/LNC21.pdf) 
