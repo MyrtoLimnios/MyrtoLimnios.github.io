@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+font-size-adjust: 0.7
 ---
 
 I am currently a third-year PhD student at Centre Borelli, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr) and [Ioannis Bargiotas](https://scholar.google.com/citations?user=pI6eATYAAAAJ&hl=en). My main interests are nonparametric statistics, statistical learning and stochastic processes. 
