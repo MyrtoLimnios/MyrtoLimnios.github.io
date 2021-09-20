@@ -1,6 +1,6 @@
 ---
 title: "Learning to Rank Anomalies: Scalar Performance Criteria and Maximization of Two-Sample Rank Statistics"
-link: 
+link: https://hal.archives-ouvertes.fr/hal-03345735
 collection: publications
 permalink: /publication/anomalyroc
 author: 'M. Limnios, N. Noiry, S. Clémençon'
@@ -11,7 +11,3 @@ venue: 'LIDTA21: 3rd International Workshop on Learning with Imbalanced Domains:
 
 
 ---
-
-
-
-[Link here](http://MyrtoLimnios.github.io/_publications/LNC21.pdf) 
