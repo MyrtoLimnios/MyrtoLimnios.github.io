@@ -3,7 +3,7 @@ title: "Epidemic Models for COVID-19 during the First Wave from February to May 
 link: https://hal.archives-ouvertes.fr/hal-03332525
 collection: publications
 permalink: /publication/covid
-author: 'M. Garin, M. Limnios, A. Nicolaï, I. Bargiotas, O. Boulant, S. Chick, A. Dib, T. Evgeniou, 
+author: 'M. Garin*, M. Limnios*, A. Nicolaï*, I. Bargiotas, O. Boulant, S. Chick, A. Dib, T. Evgeniou, 
 M. Fekom, A. Kalogeratos, C. Labourdette, A. Ovchinnikov, R. Porcher, C. Pouchol, N. Vayatis '
 pubtype: 'preprint'
 excerpt: 'We review epidemiological models for the propagation of the COVID-19 pandemic during the early months of the outbreak: 
