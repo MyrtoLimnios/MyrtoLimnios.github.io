@@ -18,4 +18,3 @@ I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-p
 
 Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
 
-<! -- News: Accepted to the 16th edition of Women in Machine Learning Research Workshop @ NeurIPS 2021 ! -->
