@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Myrto Limnios"
-description              : &description "PhD Student @ Centre Borelli"
+description              : &description "Postdoc @ MATH, UCPH"
 url                      : https://myrtolimnios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MyrtoLimnios/MyrtoLimnios.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Myrto Limnios"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "ENS Paris-Saclay, Paris, France"
+  bio              : "Postdoc"
+  location         : "Stats & Proba Theory, UCPH, Denmark"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=V7Nem6oAAAAJ&hl=fr&oi=ao"
