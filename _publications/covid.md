@@ -15,5 +15,5 @@ It mainly resulted to phenomenological, compartmental and individual-level model
 a Kibana interface and a markdown document is proposed. Finally, this work provides an opportunity to witness how the scientific 
 community reacted to this unique situation.'
 date: 2021-09-04
-<em>*Equal contribution</em>
+*'\*'Equal contribution*
 ---
