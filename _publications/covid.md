@@ -4,7 +4,7 @@ link: https://hal.archives-ouvertes.fr/hal-03332525
 collection: publications
 permalink: /publication/covid
 author: 'M. Garin*, M. Limnios*, A. Nicolaï*, I. Bargiotas, O. Boulant, S. Chick, A. Dib, T. Evgeniou, 
-M. Fekom, A. Kalogeratos, C. Labourdette, A. Ovchinnikov, R. Porcher, C. Pouchol, N. Vayatis. *Equal contributions'
+M. Fekom, A. Kalogeratos, C. Labourdette, A. Ovchinnikov, R. Porcher, C. Pouchol, N. Vayatis. (*Equal contributions)'
 pubtype: 'preprint'
 excerpt: 'We review epidemiological models for the propagation of the COVID-19 pandemic during the early months of the outbreak: 
 from February to May 2020. The aim is to propose a methodological review that highlights the following characteristics: (i) the 
