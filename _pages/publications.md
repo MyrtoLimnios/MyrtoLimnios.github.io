@@ -28,3 +28,10 @@ author_profile: true
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
+  
+  <h2>Ph.D. thesis</h2>
+  {% for post in site.publications reversed %} 
+    {% if post.pubtype == 'phd' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
