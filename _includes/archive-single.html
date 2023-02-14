@@ -27,9 +27,9 @@
     {% endif %}
 
       {% if post.link %}
-        <a style="font-size: 14px" href="{{ post.link }}">{{ title }}</a> 
+        <a style="font-size: 18px" href="{{ post.link }}">{{ title }}</a> 
       {% else %}
-          <a style="font-size: 14px" {{ title }} </a> <!--- href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
+          <a style="font-size: 18px" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
       {% endif %}
     
     {% if post.collection == 'publications'  %}
