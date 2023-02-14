@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-<h2>Journals</h2>
+<h3>Journals</h3>
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'journal' %} 
       {% include archive-single.html %} 
