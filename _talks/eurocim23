@@ -5,7 +5,7 @@ type: "Talk"
 talktype: 'poster'
 link: https://www.eurocim.org
 permalink: /talks/eurocim23
-venue: 'European Causal Inference Meeting'
+venue: 'European Causal Inference Meeting, EUROCIM'
 date: 2023-04-18
 location: 'Oslo, Norway'
 ---
