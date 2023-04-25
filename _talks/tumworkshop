@@ -5,6 +5,7 @@ type: "Talk"
 talktype: 'talk'
 link: https://wiki.tum.de/display/mathstat/ETH-UCPH-TUM+Workshop+on+Graphical+Models
 permalink: /talks/tumworkshop
-venue: 'ETH-UCPH-TUM Workshop on Graphical Models. Science and Study Center Raitenhaslach, Germany'
+venue: 'ETH-UCPH-TUM Workshop on Graphical Models'
 date: 2022-10-09
+location: 'Science and Study Center Raitenhaslach, Germany'
 ---
