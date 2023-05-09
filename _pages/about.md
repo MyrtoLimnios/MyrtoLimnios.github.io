@@ -21,5 +21,4 @@ I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-p
 Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
 
 ## News!
- <font size="3"> 
-I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023]</font>(https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) <font size="3"> to celebrate the International Women in Maths Day in May 11-12. </font>
+I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day in May 11-12. 
