@@ -20,7 +20,7 @@ I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-p
 
 Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
 
-## News!
-* I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28, in Athens. 
+## <span style="color:red">*News!*</span>
+* I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28, in Athens, Greece. 
 
 * I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12, at SDU, Odense, Denmark. 
