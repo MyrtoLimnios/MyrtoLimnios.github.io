@@ -7,7 +7,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-font-size-adjust: 0.3
+font-size-adjust: 0.25
 ---
 
 I am a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and work with [Niels Richard Hansen](https://nrhstat.org).
