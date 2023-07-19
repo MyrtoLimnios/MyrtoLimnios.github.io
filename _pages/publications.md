@@ -5,6 +5,14 @@ author_profile: true
 
 ---
 
+
+<h3>Preprints</h3>
+  {% for post in site.publications reversed %} 
+    {% if post.pubtype == 'preprint' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
+  
 <h3>Journals</h3>
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'journal' %} 
@@ -22,12 +30,6 @@ author_profile: true
   {% endfor %}
 
 
-<h3>Preprints</h3>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'preprint' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
   
   <h3>Ph.D. thesis</h3>
   {% for post in site.publications reversed %} 
