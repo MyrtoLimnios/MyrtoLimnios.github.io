@@ -22,8 +22,10 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 
 ### <span style="color:red">*News!*</span>
 
-* I am honoured to give a talk @ the international conference [European Meeting of Statisticians 2023, Bernoulli Society](https://ems2023.org), July 3-8, at Warsaw, Poland. 
-  
-* I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28, in Athens, Greece.
+* I am honoured to give a talk @ the Seminar of the [PreMeDiCal Inria-Inserm Team](https://team.inria.fr/premedical/), January 29/2024, at Montpellier, France.
 
-* I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12, at SDU, Odense, Denmark.
+* I am honoured to give a talk @ the international conference [European Meeting of Statisticians 2023, Bernoulli Society](https://ems2023.org), July 3-8/2023, at Warsaw, Poland. 
+  
+* I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28/2023, in Athens, Greece.
+
+* I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12/2023, at SDU, Odense, Denmark.
