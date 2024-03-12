@@ -22,6 +22,8 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 
 ### <span style="color:red">*News!*</span>
 
+* Check out our new paper entitled [''On Ranking-based Tests of Independence''](https://hal.science/hal-04500114) to appear in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024!
+
 * I am honoured to give a talk @ the Seminar of the [PreMeDiCal Inria-Inserm Team](https://team.inria.fr/premedical/), January 29/2024, at Montpellier, France.
 
 * I am honoured to give a talk @ the international conference [European Meeting of Statisticians 2023, Bernoulli Society](https://ems2023.org), July 3-8/2023, at Warsaw, Poland. 
