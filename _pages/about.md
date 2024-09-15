@@ -7,14 +7,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-font-size-adjust: 0.2
+font-size-adjust: 0.1
 ---
 
-I am a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and work with [Niels Richard Hansen](https://nrhstat.org).
+I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). 
 
 My research is centered on nonparametric statistics, statistical learning and stochastic processes, with applications to biomedical studies. I am now interested in causal learning for unstructured events, and in particular in conditional local independence testing and learning algorithms.
 
-I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr) and [Ioannis Bargiotas](https://scholar.google.com/citations?user=pI6eATYAAAAJ&hl=en). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901) and slides.
+I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and worked with [Niels Richard Hansen](https://nrhstat.org) on learning methods for point processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr) and [Ioannis Bargiotas](https://scholar.google.com/citations?user=pI6eATYAAAAJ&hl=en). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901) and slides.
 
 I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/) at Télécom Paris on particular classes of stochastic processes with possible applications to statistical tests. 
 
