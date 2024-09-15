@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Myrto Limnios"
-description              : &description "Postdoc @ MATH, UCPH"
+description              : &description "Bernoulli Instructor @ MATH, EPFL"
 url                      : https://myrtolimnios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MyrtoLimnios/MyrtoLimnios.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Myrto Limnios"
   avatar           : "profile.png"
-  bio              : "Postdoc @ MATH, UCPH"
-  location         : "SPT, UCPH, Denmark"
+  bio              : "Bernoulli Instructor @ MATH, EPFL"
+  location         : "MA, SB, EPFL, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=V7Nem6oAAAAJ&hl=fr&oi=ao"
-  email            : "myli(at)math.ku.dk"
+  email            : "myrto.limnios(at)epfl.ch"
   researchgate     : "https://www.researchgate.net/profile/Myrto_Limnios"
   uri              :
   bitbucket        :
