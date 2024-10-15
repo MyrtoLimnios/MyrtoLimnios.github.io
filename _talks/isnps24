@@ -5,6 +5,18 @@ type: "Talk"
 talktype: 'talk'
 link: https://w3.math.uminho.pt/ISNPS2024/
 permalink: /talks/isnps24
+venue: 'International Symposium on Nonparametric Statistics (ISNPS)'
+date: 2024-06-28
+location: 'Braga, Portugal'
+---
+
+---
+title: "A bipartite ranking approach to two-sample hypothesis testing (invited)"
+collection: talks
+type: "Talk"
+talktype: 'talk'
+link: https://w3.math.uminho.pt/ISNPS2024/
+permalink: /talks/isnps24
 venue: 'International Symposium on Nonparametric Statistics'
 date: 2024-06-28
 location: 'Braga, Portugal'
