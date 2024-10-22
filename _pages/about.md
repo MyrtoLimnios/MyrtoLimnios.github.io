@@ -7,7 +7,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-font-size-adjust: 0.1
+font-size-adjust: 0.05
 ---
 
 I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, with applications to biomedical studies. I am now interested in causal learning for unstructured events, and in particular in conditional local independence testing and learning algorithms.
@@ -20,7 +20,9 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 
 ### <span style="color:red">*News!*</span>
 
-* Check out our new paper with Stephan Clémençon entitled [''On Ranking-based Tests of Independence''](https://proceedings.mlr.press/v238/limnios24a.html), appeared in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024!
+* Check out our new paper with Nathan Noiry and Stephan Clémençon entitled [''Learning to rank anomalies: scalar performance criteria and maximization of rank statistics''](https://link.springer.com/article/10.1007/s10994-024-06609-9#citeas), appeared in the journal Machine Learning, Springer.
+ 
+* Check out our new paper with Stephan Clémençon entitled [''On Ranking-based Tests of Independence''](https://proceedings.mlr.press/v238/limnios24a.html), appeared in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024.
 
 * I am honoured to give a talk @ the Seminar of the [PreMeDiCal Inria-Inserm Team](https://team.inria.fr/premedical/), January 29/2024, at Montpellier, France.
 
