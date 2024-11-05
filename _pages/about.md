@@ -20,6 +20,8 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 
 ### <span style="color:red">*News!*</span>
 
+* I am very honoured and thankful to Prof. [Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/) for hosting me at [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/homepage), UC Berkeley, for a month in November 2024.
+  
 * Check out our new paper with Nathan Noiry and Stephan Clémençon entitled [''Learning to rank anomalies: scalar performance criteria and maximization of rank statistics''](https://link.springer.com/article/10.1007/s10994-024-06609-9#citeas), appeared in the journal Machine Learning, Springer.
  
 * Check out our new paper with Stephan Clémençon entitled [''On Ranking-based Tests of Independence''](https://proceedings.mlr.press/v238/limnios24a.html), appeared in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024.
