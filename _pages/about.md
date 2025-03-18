@@ -10,11 +10,13 @@ redirect_from:
 font-size-adjust: 0.05
 ---
 
-I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, with applications to biomedical studies. I am now interested in causal learning for unstructured events, and in particular in conditional local independence testing and learning algorithms.
+I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, with applications to biomedical studies. 
 
-I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and worked with [Niels Richard Hansen](https://nrhstat.org) on learning methods for point processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr) and [Ioannis Bargiotas](https://scholar.google.com/citations?user=pI6eATYAAAAJ&hl=en). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901) and slides.
+I am interested in causal learning for events processes, and in particular in conditional local independence testing and learning algorithms, with [Niels Richard Hansen](https://nrhstat.org).
 
-I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/) at Télécom Paris on particular classes of stochastic processes with possible applications to statistical tests. 
+I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/), Télécom Paris, on concentration results for particular classes of stochastic processes (k-samples Rank and U-processes) with possible applications to statistical tests. 
+
+I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and worked with Niels Richard Hansen on learning methods for point processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr) and [Ioannis Bargiotas](https://scholar.google.com/citations?user=pI6eATYAAAAJ&hl=en). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901) and slides.
 
 Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
 
