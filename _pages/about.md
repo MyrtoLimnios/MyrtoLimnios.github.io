@@ -12,7 +12,7 @@ font-size-adjust: 0.05
 
 I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, with applications to biomedical studies. 
 
-I am interested in causal learning for events processes, and in particular in conditional local independence testing and learning algorithms, with [Niels Richard Hansen](https://nrhstat.org).
+I am interested in causal learning methods for event processes, using conditional local independence testing, in collaboration with [Niels Richard Hansen](https://nrhstat.org).
 
 I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/), Télécom Paris, on concentration results for particular classes of stochastic processes (k-samples Rank and U-processes) with possible applications to statistical tests. 
 
