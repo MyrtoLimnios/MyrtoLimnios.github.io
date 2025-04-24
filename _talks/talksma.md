@@ -1,5 +1,5 @@
 ---
-title: "Empirical Maximization of R-statistics in the Two-Sample Problem and Nonparametric Homogeneity Tests in High Dimension"
+title: "Empirical maximization of r-statistics in the two-sample problem and nonparametric homogeneity tests in high dimension"
 collection: talks
 type: "Talk"
 talktype: 'talk'
