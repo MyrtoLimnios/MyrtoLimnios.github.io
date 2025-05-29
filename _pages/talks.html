@@ -16,6 +16,13 @@ author_profile: true
 -->
 
 
+<h3>Invited talks</h3>
+  {% for post in site.talks reversed %} 
+    {% if post.talktype == 'invtalk' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %} 
+
 <h3>Talks</h3>
   {% for post in site.talks reversed %} 
     {% if post.talktype == 'talk' %} 
