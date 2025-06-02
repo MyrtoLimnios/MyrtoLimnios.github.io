@@ -21,6 +21,8 @@ I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/res
 Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
 
 ### <span style="color:red">*News!*</span>
+
+* I am greatful to the Institute of Mathematics, EPFL, for supporting and helping me organize the conference celebrating [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), that was held at EPFL, May 15-16 2025. We hosted more that 60 participants, from Switzerland mainly, France and Spain.
   
 * I am very honoured and thankful to Prof. [Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/) for hosting me at [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/homepage), UC Berkeley, for a month in November 2024.
   
