@@ -30,8 +30,7 @@ author_profile: true
   {% endfor %}
 
 
-  
-  <h3>Ph.D. thesis</h3>
+  <h3>Ph.D. thesis and Book Chapter</h3>
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'phd' %} 
       {% include archive-single.html %} 
