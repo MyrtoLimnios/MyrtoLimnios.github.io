@@ -22,6 +22,8 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 
 ### <span style="color:red">*News!*</span>
 
+* I am very honoured and thankful to Prof. [Mehryar Mohri](https://cs.nyu.edu/~mohri/) for hosting me at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, for a month in Spring 2026.
+  
 * I am greatful to the Institute of Mathematics, EPFL, for supporting and helping me organize the conference celebrating [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/), that was held at EPFL, May 15-16 2025. We hosted more that 60 participants, from Switzerland mainly, France and Spain.
   
 * I am very honoured and thankful to Prof. [Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/) for hosting me at [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/homepage), UC Berkeley, for a month in November 2024.
