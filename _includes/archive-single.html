@@ -11,13 +11,14 @@
           alt="">
       </div>
     {% endif %}
-      {% if include.link_title == false or post.link_title == false %}
-      <span>{{ title }}</span>
-      {% elsif post.link %}
-      <a href="{{ post.link }}">{{ title }}</a> 
-      {% else %}
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
-      {% endif %}
+     
+    {% if include.link_title == false or post.link_title == false %}
+  <span style="font-size: 14px">{{ title }}</span>
+{% elsif post.link %}
+  <a style="font-size: 14px" href="{{ post.link }}">{{ title }}</a> 
+{% else %}
+  <a style="font-size: 14px" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
+{% endif %}
     
     {% if post.collection == 'publications'  %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.author }}. <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%B %Y" }}. {{ post.code }}  </p>
