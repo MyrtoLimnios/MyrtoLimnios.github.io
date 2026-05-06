@@ -19,8 +19,6 @@ I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-p
 
 I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and worked with Niels Richard Hansen on learning methods for point processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901) and slides.
 
-Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
-
 ### <span style="color:red">*News!*</span>
 
 * I am very honoured and thankful to Prof. [Mehryar Mohri](https://cs.nyu.edu/~mohri/) for hosting me at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, for a month in Spring 2026.
@@ -40,5 +38,9 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 * I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28/2023, in Athens, Greece.
 
 * I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12/2023, at SDU, Odense, Denmark.
+
+* Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
+
+
 
 
