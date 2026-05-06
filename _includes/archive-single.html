@@ -26,10 +26,12 @@
       </div>
     {% endif %}
 
-      {% if post.link %}
-        <a style="font-size: 16px" href="{{ post.link }}">{{ title }}</a> 
+      {% if include.link_title == false or post.link_title == false %}
+      <span style="font-size: 16px">{{ title }}</span>
+      {% elsif post.link %}
+      <a style="font-size: 16px" href="{{ post.link }}">{{ title }}</a> 
       {% else %}
-          <a style="font-size: 16px" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
+      <a style="font-size: 16px" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
       {% endif %}
     
     {% if post.collection == 'publications'  %}
