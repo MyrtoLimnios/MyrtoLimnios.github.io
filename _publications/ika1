@@ -1,6 +1,5 @@
 ---
 title: "Implicit Kemeny Alignment: Resolving Non-Transitive Preferences without Inference-Time Aggregation"
-link:
 collection: publications
 permalink: /publication/ika1
 author: 'M. Limnios, M. Mohri, J. Schneider, Y. Zhong'
@@ -8,4 +7,5 @@ pubtype: 'preprint'
 excerpt: ''
 date: 2026-05-01
 venue: 'Preprint - Submitted to a CS Conference'
+link_title: false
 ---
