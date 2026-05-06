@@ -10,7 +10,6 @@ redirect_from:
 font-size-adjust: 0.05
 ---
 
-<div style="font-size: 15px">
   
 I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, motivated by biomedical studies. 
 
@@ -43,4 +42,3 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 * I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12/2023, at SDU, Odense, Denmark.
 
 
-</div>
