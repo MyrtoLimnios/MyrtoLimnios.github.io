@@ -40,3 +40,6 @@ Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read 
 * I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28/2023, in Athens, Greece.
 
 * I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12/2023, at SDU, Odense, Denmark.
+
+
+</div>
