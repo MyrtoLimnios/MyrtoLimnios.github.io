@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 font-size-adjust: 0.05
 ---
-
+<div style="font-size: 14px">
+  
 I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research is centered on nonparametric statistics, statistical learning and stochastic processes, motivated by biomedical studies. 
 
 I am interested in causal learning methods for event processes, using conditional local independence testing, in collaboration with [Niels Richard Hansen](https://nrhstat.org).
