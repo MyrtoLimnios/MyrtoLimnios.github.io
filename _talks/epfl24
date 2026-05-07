@@ -3,7 +3,7 @@ title: " Nonparametric modeling and penalized learning methods for event process
 collection: talks
 type: "Talk"
 talktype: 'invtalk'
-link: 
+link_title: false
 permalink: /talks/epfl24
 venue: 'Seminar of Statistics, Institute of Mathematics, EPFL, Switzerland'
 date: 2024-10-06
