@@ -3,7 +3,7 @@ title: "Towards new challenges related to ranking data of complex structure "
 collection: talks
 type: "Talk"
 talktype: 'invtalk'
-link: 
+link_title: false
 permalink: /talks/epfl23
 venue: 'Seminar of Statistics, Institute of Mathematics, EPFL, Switzerland'
 date: 2023-12-13
