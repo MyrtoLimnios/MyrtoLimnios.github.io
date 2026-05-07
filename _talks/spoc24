@@ -3,7 +3,7 @@ title: "Towards new challenges related to ranking data with application to indep
 collection: talks
 type: "Talk"
 talktype: 'invtalk'
-link: 
+link_title: false
 permalink: /talks/spoc24
 venue: 'Seminar of the Institute of Mathematics, SPOC, Bourgogne University'
 date: 2024-10-23
