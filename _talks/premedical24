@@ -3,7 +3,7 @@ title: " Towards new challenges related to ranking data of complex structure "
 collection: talks
 type: "Talk"
 talktype: 'invtalk'
-link: 
+link_title: false
 permalink: /talks/premedical24
 venue: 'Seminar of the PreMeDiCal Team, INRIA-INSERM'
 date: 2024-01-29
