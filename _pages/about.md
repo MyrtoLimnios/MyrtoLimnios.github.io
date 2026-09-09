@@ -27,20 +27,5 @@ I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/res
   
 * I am very honoured and thankful to Prof. [Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/) for hosting me at [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/homepage), UC Berkeley, for a month in November 2024.
   
-* Check out our new paper with Nathan Noiry and Stephan Clémençon entitled [''Learning to rank anomalies: scalar performance criteria and maximization of rank statistics''](https://link.springer.com/article/10.1007/s10994-024-06609-9#citeas), appeared in the journal Machine Learning, Springer.
- 
-* Check out our new paper with Stephan Clémençon entitled [''On Ranking-based Tests of Independence''](https://proceedings.mlr.press/v238/limnios24a.html), appeared in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024.
-
-* I am honoured to give a talk @ the Seminar of the [PreMeDiCal Inria-Inserm Team](https://team.inria.fr/premedical/), January 29/2024, at Montpellier, France.
-
-* I am honoured to give a talk @ the international conference [European Meeting of Statisticians 2023, Bernoulli Society](https://ems2023.org), July 3-8/2023, at Warsaw, Poland. 
-  
-* I am honoured to be invited to give a talk @ the international conference [35th Panhellenic and 1st International Statistics Conference 2023](https://gsi-conference.uniwa.gr/index.php), May 25-28/2023, in Athens, Greece.
-
-* I am honoured to give a talk @ the international conference [Women in Mathematical Sciences 2023](https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi/kalender/womenmath23) to celebrate the International Women in Maths Day, May 11-12/2023, at SDU, Odense, Denmark.
-
-* Visit the [repository](https://github.com/MyrtoLimnios/covid19-biblio) and read the [article](https://arxiv.org/abs/2109.01450) of a selection of papers related to COVID-19 outbreak developed with Marie Garin, Alice Nicolaï and Nicolas Vayatis, with detailed reviews.
-
-
 
 
