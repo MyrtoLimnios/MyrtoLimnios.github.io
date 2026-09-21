@@ -3,7 +3,7 @@ title: "Concentration Inequalities for Two-Sample Rank Processes with Applicatio
 link: https://arxiv.org/abs/2104.02943
 collection: publications
 permalink: /publication/2sampleconc
-author: 'S. Clémençon, M. Limnios*, N. Vayatis'
+author: 'S. Clémençon, <strong>M. Limnios*</strong>, N. Vayatis'
 pubtype: 'journal'
 excerpt: ''
 date: 2021-04-07
