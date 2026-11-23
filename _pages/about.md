@@ -11,15 +11,11 @@ font-size-adjust: 0.05
 ---
 
   
-I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). 
+I am a Bernoulli Instructor at the Institute of Mathematics at [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/), Switzerland. 
 
 My research is centered on mathematical statistics and learning, causal inference, mathematics for large (generative) models, stochastic processes, hypothesis testing for heterogeneous data, to develop statistical methods with finite-sample guarantees for multidisciplinary applications in applied sciences (biostatistics, econometrics, engineering, environmental sciences, finance). 
 
-I work in collaboration with [Niels Richard Hansen](https://nrhstat.org) on causal learning methods for event processes, using conditional local independence testing to learn local causal graphs.
-
-I work in collaboration with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/), Télécom Paris, on concentration results for particular classes of stochastic processes (k-sample Rank and U-processes) with applications to statistical tests in particular. 
-
-I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen and worked with Niels Richard Hansen on learning methods for point processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr). My thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901).
+I was a Postdoc at [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/) of the University of Copenhagen mentored by Prof. [Niels Richard Hansen](https://nrhstat.org) on causal learning methods for event processes. Prior to this, I successfully finished my PhD at Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr). My Ph.D. thesis entitled ''Rank Processes and Statistical Applications in High Dimension'' can be found [here](https://tel.archives-ouvertes.fr/tel-03700901).
 
 ### <span style="color:red">*News!*</span>
 
